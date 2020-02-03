@@ -1,0 +1,29 @@
+criado yarn
+
+yarn init
+
+
+
+
+add babel
+yarn add @babel/cli
+yarn add @babel/preset-env
+yarn add @babel/core
+
+
+instalar rest spread
+
+yarn add @babel/plugin-proposal-object-rest-spread
+
+instalado o webpack Server
+yarn add webpack webpack-cli -D
+
+yarn add babel-loader -D
+
+yarn add babel-loader@8.0.0-beta.0 -D
+
+yarn add webpack-dev-server -D
+
+
+
+iniciar async await
